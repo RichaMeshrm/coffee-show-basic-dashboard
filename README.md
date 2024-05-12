@@ -1,1 +1,1 @@
-# coffee-show-basic-dashboard
+# coffee-shop-basic-dashboard
